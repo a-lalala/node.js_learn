@@ -4,8 +4,4 @@ This is change from branch master
 This is new branch feature
 This is merge whith --no-ff
 will merge with --on-ff from dev branch
-<<<<<<< HEAD
-=======
-try merge aginst 
-try merge aginst twice
->>>>>>> dev
+replay merge 1 in dev
