@@ -6,4 +6,5 @@ This is merge whith --no-ff
 will merge with --on-ff from dev branch
 replay merge 1 in dev
 replay merge 2 in dev
+This is stash test 6 from dev
 
